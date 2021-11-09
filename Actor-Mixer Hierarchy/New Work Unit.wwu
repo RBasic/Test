@@ -20,16 +20,16 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="SFX_IA_BonesCreak-001" ID="{0FEB359D-D5BB-41BF-B2D6-521FBF21AE5D}">
+						<AudioFileSource Name="SFX_Schutz_Alexis_Spaceship_PassBy_01_V3" ID="{F3E3C629-AD31-421D-ACD9-52B10C10A6CB}">
 							<Language>SFX</Language>
-							<AudioFile>SFX_IA_BonesCreak-001.wav</AudioFile>
+							<AudioFile>SFX_Schutz_Alexis_Spaceship_PassBy_01_V3.wav</AudioFile>
 							<MediaIDList>
-								<MediaID ID="149313892"/>
+								<MediaID ID="135445259"/>
 							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
-						<ActiveSource Name="SFX_IA_BonesCreak-001" ID="{0FEB359D-D5BB-41BF-B2D6-521FBF21AE5D}" Platform="Linked"/>
+						<ActiveSource Name="SFX_Schutz_Alexis_Spaceship_PassBy_01_V3" ID="{F3E3C629-AD31-421D-ACD9-52B10C10A6CB}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>
