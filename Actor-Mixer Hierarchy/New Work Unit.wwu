@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{0ED18D4D-78B2-4DC0-A2F5-AFEB7661004C}" SchemaVersion="97">
+<WwiseDocument Type="WorkUnit" ID="{0180A045-93DE-4A44-A928-D5CE54CA1538}" SchemaVersion="97">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{0ED18D4D-78B2-4DC0-A2F5-AFEB7661004C}" PersistMode="Standalone">
+		<WorkUnit Name="New Work Unit" ID="{0180A045-93DE-4A44-A928-D5CE54CA1538}" PersistMode="Standalone">
 			<ChildrenList>
-				<Sound Name="New Sound SFX" ID="{53109756-9E7A-44E2-AF81-6B63D588763C}" ShortID="595188394">
+				<Sound Name="New Sound SFX" ID="{286BA304-7B09-42E0-81F8-5D0F91A95672}" ShortID="695339680">
 					<PropertyList>
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
@@ -20,7 +20,7 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="SFX_IA_BonesCreak-001" ID="{60815FF3-1D88-40B5-8903-CB5CB02648B9}">
+						<AudioFileSource Name="SFX_IA_BonesCreak-001" ID="{0FEB359D-D5BB-41BF-B2D6-521FBF21AE5D}">
 							<Language>SFX</Language>
 							<AudioFile>SFX_IA_BonesCreak-001.wav</AudioFile>
 							<MediaIDList>
@@ -29,7 +29,7 @@
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
-						<ActiveSource Name="SFX_IA_BonesCreak-001" ID="{60815FF3-1D88-40B5-8903-CB5CB02648B9}" Platform="Linked"/>
+						<ActiveSource Name="SFX_IA_BonesCreak-001" ID="{0FEB359D-D5BB-41BF-B2D6-521FBF21AE5D}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>
