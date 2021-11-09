@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0ED18D4D-78B2-4DC0-A2F5-AFEB7661004C}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{0ED18D4D-78B2-4DC0-A2F5-AFEB7661004C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="New Sound SFX" ID="{53109756-9E7A-44E2-AF81-6B63D588763C}" ShortID="595188394">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{17DA6D1F-43B3-4766-93B9-E1D25B8301A6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{760A7A61-FA6F-4CD6-AF4C-37A14F84DD18}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SFX_IA_BonesCreak-001" ID="{60815FF3-1D88-40B5-8903-CB5CB02648B9}">
+							<Language>SFX</Language>
+							<AudioFile>SFX_IA_BonesCreak-001.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="149313892"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SFX_IA_BonesCreak-001" ID="{60815FF3-1D88-40B5-8903-CB5CB02648B9}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
